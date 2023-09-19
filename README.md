@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B4kury
 - 👀 I’m interested in learn code 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Front end Developign (HTML5, CSS, JS)
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me Bakury#3109 on Discord
 
